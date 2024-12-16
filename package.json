@@ -15,12 +15,10 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
-    "esobjs-xe2-plugin": "0.1.12-7.2",
     "pinia": "^2.2.6",
     "tailwindcss": "^3.4.14",
     "vue": "^3.5.12",
-    "vue-router": "^4.4.5",
-    "vue-xe2-plugin": "^0.1.19"
+    "vue-router": "^4.4.5"
   },
   "devDependencies": {
     "@tsconfig/node22": "^22.0.0",
@@ -30,15 +28,13 @@
     "@vue/eslint-config-prettier": "^10.1.0",
     "@vue/eslint-config-typescript": "^14.1.3",
     "@vue/tsconfig": "^0.5.1",
-    "cesium": "^1.123.1",
+    "cesium": "^1.105.1",
     "eslint": "^9.14.0",
     "eslint-plugin-oxlint": "^0.11.0",
     "eslint-plugin-vue": "^9.30.0",
-    "esobjs-xe2-plugin-assets": "^0.1.14",
     "npm-run-all2": "^7.0.1",
     "oxlint": "^0.11.0",
     "prettier": "^3.3.3",
-    "smplotting-xe2-plugin": "^0.1.3",
     "typescript": "~5.6.3",
     "unplugin-auto-import": "^0.18.3",
     "vite": "^5.4.11",
@@ -46,9 +42,6 @@
     "vite-plugin-externals": "^0.6.2",
     "vite-plugin-static-copy": "^2.1.0",
     "vite-plugin-vue-devtools": "^7.5.4",
-    "vue-tsc": "^2.1.10",
-    "xbsj-renderer": "^0.3.39",
-    "xbsj-xe2": "^0.2.98",
-    "xbsj-xe2-assets": "^0.1.19"
+    "vue-tsc": "^2.1.10"
   }
 }
